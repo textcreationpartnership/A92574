@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Parliament of Scotland, to his most sacred Majesty, August 1. 1681</title>
+            <title>Proceedings. 1681-08-01</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92574</idno>
+            <idno type="STC">Wing S1283A</idno>
+            <idno type="STC">ESTC R229682</idno>
+            <idno type="EEBO-CITATION">99895352</idno>
+            <idno type="PROQUEST">99895352</idno>
+            <idno type="VID">152727</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152727)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Parliament of Scotland, to his most sacred Majesty, August 1. 1681</title>
+                  <title>Proceedings. 1681-08-01</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152727:1"/>
+            <!-- PDF PAGE 4 -->
+            <p>A LETTER FROM THE PARLIAMENT OF SCOTLAND, To HIS moſt Sacred Majeſty. <hi>Auguſt</hi> 1. 1681.</p>
+            <figure/>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred MAJESTY, <hi>Anno</hi> 1681.</p>
+            <pb facs="tcp:152727:2"/>
+            <!-- PDF PAGE 5 -->
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:152727:2"/>
+            <!-- PDF PAGE 5 -->
+            <head>A LETTER from the Parliament of <hi>SCOT<g ref="char:EOLhyphen"/>LAND,</hi> to His moſt Sacred Majeſty.</head>
+            <opener>
+               <salute>May it pleaſe Your Sacred Majeſty.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He manifold ſad experiences of the fatall miſchiefs and calamities which attend Rebellions, muſt needs in due proportion, diſpoſe all your Majeſtie's Subjects to higher meaſures of Loyalty; more particularly us in this Your ancient Kingdom, being ſenſible, as we have a more ſpecial intereſt in your Majeſtie's Sacred Perſon and Family; ſo muſt we inevitably ſhare the more deeply in all the inconveniences which may di<g ref="char:EOLhyphen"/>ſturb or ſubvert your Royal Government. And therefore, as by our Allegiance, we own it to be out duty to be obedient and loyal to your Majeſty and Your lawful Heirs and Succeſſours; ſo your Majeſtie's extraordinar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kindneſs, to ſuch as have continued in their duty, and your wonderful clemency by your repeated In<g ref="char:EOLhyphen"/>de<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pnities to ſuch as have fallen from it, cannot but kindle in us ſtrong and ardent deſires to ſerve Your Majeſty, with all the courage and alacrity, of which we are capables, and to let Your other Kingdoms, and all the world ſee, that we eſteem our Lives and Fortunes to be beſt imployed, in maintaining of the juſt Rights and Prerogatives of your Majeſtie's Crown and Monarchy, the native ſucceſſion whereof cannot be invaded, without utter ſubverſion of the fundamental Laws of this your Majeſtie's ancient Kingdom. And this our Loyalty we eſteem our alone ſecurity, to avoid theſe confuſions and ſlavery, which diſtracted and ruined us in the laſt Age, and ſeemeth to threaten us ſo apparently in this.</p>
+            <p>SIR, Though ſome rebellious and deluded People, have diſturbed your Majeſtie's Government there, yet their Principles are ſo extravagant, and ſo few Perſons of any Note or Quality, are engaged with them; that we may juſtly hope, their Crimes cannot be imputed to this Kingdom, whoſe Re<g ref="char:EOLhyphen"/>preſentatives in this Your Majeſtie's Parliament, will no leſs for their Vin<g ref="char:EOLhyphen"/>dication as to what is paſt, then for their own Security for the time coming, chearfully provide ſutable and ſufficient Remedies; All of us being very ſen<g ref="char:EOLhyphen"/>ſible, that theſe diſtractions and diſorders would in the iſſue tend to the diſſo<g ref="char:EOLhyphen"/>lution not onely of Your Majeſtie's Government in the Church and State, as the ſame is by Law eſtabliſhed, but even of all Humane Society.</p>
+            <p>It is a great ſatisfaction to us, to find Your Majeſty ſo concerned for the PROTESTANT Religion, not only in Your Gracious Letter to us, but in the whole Conduct of Your Royal Government. And we ſhall with all Chriſtian care, and duty endeavour to confirm it, ſo as it may become a ſolid
+<pb n="4" facs="tcp:152727:3"/>
+               <!-- PDF PAGE 6 -->and pious ſupport, to Your Royal Family, and Monarchie, and a ſure fence in this diſturbed and divided Church, againſt all Uſurpations and Diſorders of Popery, and Phanaticiſm, that for the future, the pretence of its inſecu<g ref="char:EOLhyphen"/>ritie may not be made (as formerly) an Engyne for carrying on diſloyal deſignes and practiſes.</p>
+            <p>We offer our moſt humble and heartie thanks to Your moſt Sacred Ma<g ref="char:EOLhyphen"/>jeſtie, for calling us together at this time, to conſult jointly the Intereſts of Yout Majeſtie's Government, and of Your Subjects in this Your Ancient Kingdom, which we truſt ſhall never be divided. And therefore, as the Prerogatives and juſt Rights of the Monarchie, are abſolutly neceſſar, for the defence of our Properties and Liberties, ſo in purſuance of our own In<g ref="char:EOLhyphen"/>tereſt, and for further clearing of our Dutie and Allegiance by poſitive Laws; we ſhall not fail to declare our humble and heartie acknowledgements of the juſt Rights and Perogatives of Your Imperial Crown in its Juſt, Native, and Lineal courſe of Deſcent; And to ſecure the juſt Rights, and Liberties of Your Subjects, ſo as may fully demonſtrat our unalterable Reſolutions, never to depart from our Dutie to Your Royal Familie, and Your lawful Heirs and Succeſſours, to whom we are tyed by ſo many ſacred Obligations.</p>
+            <p>We doe alſo with all humble Gratitude, acknowledge the Grace, and Ho<g ref="char:EOLhyphen"/>nour, done to this Kingdom, in naming Your Royal Brother to be Your Majeſtie's High Commiſsioner in this preſent Parliament. And indeed the beholding a SON of our Ancient Monarchs, under whom we and our An<g ref="char:EOLhyphen"/>ceſtours, have been ſo long and ſo happily governed in this Character, Doeth vigorouſly awaken in us, the remembrance of our Native Kindneſſe and Obligations, as his juſt Temper and ſteddie equalitie in all our Concerns cannot but extinguiſh in us all fears and jealouſies of ſeveritie, or partiality; His Intereſt being unſeparable from Your Majeſtie's: And he being well ac<g ref="char:EOLhyphen"/>quainted with all Our Concerns, and ſo affectionat to, and careful of them, Your Majeſtie may juſtly expect from a Parliament, under the conduct of ſuch a Commiſſioner, all that can be judged neceſſar for the honour and ſupport of Your Royal Government, and Authority, and for ſecuring the juſt Rights and Liberties of Your Subjects, and that with all the Loyalty, Readineſs, and Sincerity, which can be expreſſed by Us:</p>
+            <closer>
+               <signed>
+                  <hi>Signed in Name and by Order of the Parliament, By Your Majestie's moſt Humble, moſt Faithful, and moſt obedient Subject and Servant. ATHOLE J. P. D.</hi> Par.</signed>
+            </closer>
+            <pb facs="tcp:152727:3"/>
+            <!-- PDF PAGE 6 -->
+         </div>
+      </body>
+   </text>
+</TEI>
